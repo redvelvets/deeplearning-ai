@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(conda activate:*)",
+      "Bash(conda list:*)",
+      "Bash(findstr:*)"
+    ]
+  }
+}
